@@ -5,7 +5,7 @@ It is just a custom variant of the Atkinson Hyperlegible Mono font family that I
 **Slim Clarity Mono** is a customized, high-density variant of the Atkinson Hyperlegible Mono font family, tailored specifically for developers who prefer compact coding fonts while preserving the special readability of Atkinson Hyperlegible Mono.
 
 <p align="center">
-  <img src="preview.png" alt="Slim Clarity Mono Preview" width="800">
+  <img src="preview.png" alt="Slim Clarity Mono Preview">
 </p>
 
 ## Modifications
