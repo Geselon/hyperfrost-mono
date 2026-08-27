@@ -2,7 +2,7 @@
 
 It is just a custom variant of the Atkinson Hyperlegible Mono font family that I have thoroughly adjusted, so that it suits me personally, and I wanted to share it with y'all!
 
-**Slim Clarity Mono** is a customized, high-density variant of the Atkinson Hyperlegible Mono font family, tailored specifically for developers who prefer compact coding fonts while preserving the special readability of Atkinson Hyperlegible.
+**Slim Clarity Mono** is a customized, high-density variant of the Atkinson Hyperlegible Mono font family, tailored specifically for developers who prefer compact coding fonts while preserving the special readability of Atkinson Hyperlegible Mono.
 
 ## Modifications
 - **Increased Code Density:** Squashed character width to fit more code horizontally on screen to match the proportions of JetBrains Mono and Fira Code.
