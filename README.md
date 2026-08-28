@@ -4,13 +4,23 @@ It is just a custom variant of the Atkinson Hyperlegible Mono font family that I
 
 **Slim Clarity Mono** is a customized, high-density variant of the Atkinson Hyperlegible Mono font family, tailored specifically for developers who prefer compact coding fonts while preserving the special readability of Atkinson Hyperlegible Mono.
 
+## Variants
+- **Slim Clarity Mono:** Features the custom, enlarged, and center-aligned asterisk (`*`).
+- **Slim Clarity Mono Original Asterisk:** Retains the original, higher-positioned asterisk from Atkinson Hyperlegible Mono for those who prefer the default look.
+
+Slim Clarity Mono Preview
 <p align="center">
   <img src="preview.png" alt="Slim Clarity Mono Preview">
 </p>
 
+Slim Clarity Mono Original Asterisk Preview
+<p align="center">
+  <img src="preview-original-asterisk.png" alt="Slim Clarity Mono Original Asterisk Preview">
+</p>
+
 ## Modifications
 - **Increased Code Density:** Squashed character width to fit more code horizontally on screen to match the proportions of JetBrains Mono and Fira Code.
-- **Centered Asterisk (`*`):** Adjusted the vertical alignment of the asterisk down to the middle and increased the size.
+- **Centered Asterisk (`*`):** Adjusted the vertical alignment of the asterisk down to the middle and increased the size. (For Slim Clarity Mono)
 - **Cleaned Metadata:** Renamed all internal font tables to comply with the SIL Open Font License (OFL) naming restrictions.
 
 ## Disclaimer & Credits
