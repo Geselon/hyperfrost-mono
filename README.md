@@ -9,14 +9,10 @@ It is just a custom variant of the Atkinson Hyperlegible Mono font family that I
 - **Slim Clarity Mono Original Asterisk:** Retains the original, higher-positioned asterisk from Atkinson Hyperlegible Mono for those who prefer the default look.
 
 Slim Clarity Mono Preview
-<p align="center">
-  <img src="preview.png" alt="Slim Clarity Mono Preview">
-</p>
+![Slim Clarity Mono coding font preview with One Dark Pro syntax highlighting](preview.png)
 
 Slim Clarity Mono Original Asterisk Preview
-<p align="center">
-  <img src="preview-original-asterisk.png" alt="Slim Clarity Mono Original Asterisk Preview">
-</p>
+![Slim Clarity Mono Original Asterisk coding font preview with One Dark Pro syntax highlighting](preview.png)
 
 ## Modifications
 - **Increased Code Density:** Squashed character width to fit more code horizontally on screen to match the proportions of JetBrains Mono and Fira Code.
