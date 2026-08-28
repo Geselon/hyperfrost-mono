@@ -1,13 +1,21 @@
-Slim Clarity Mono Font Log
+Slim Clarity Mono Project Font Log
 ==========================
 
-This file provides detailed information on the Slim Clarity Mono font software.
-This information includes a description of the project, modifications made, and attribution acknowledgments.
+This file provides detailed information on the Slim Clarity Mono font software family, including all active variants, project history, and modifications.
 
 Log of Changes
 --------------
-2026-08-27 (Geselon) Slim Clarity Mono Version 1.000
+
+*** Slim Clarity Mono (Main Branch) ***
+2026-08-28 (Geselon) Version 1.000
 - Forked from Atkinson Hyperlegible Next Mono.
-- Increased character width density to match proportions of JetBrains Mono and Fira Code.
-- Realigned the vertical axis of and enlarged the asterisk (*) symbol.
+- Increased character width density to match JetBrains Mono proportions.
+- Realigned and enlarged the vertical axis of the asterisk (*) symbol.
+- Renamed OpenType name tables to satisfy OFL naming restrictions.
+
+*** Slim Clarity Mono Original Asterisk (Variant Branch) ***
+2026-08-28 (Geselon) Version 1.000
+- Forked from Atkinson Hyperlegible Next Mono.
+- Increased character width density to match JetBrains Mono proportions.
+- Retained the default high-alignment asterisk (*) from the original project.
 - Renamed OpenType name tables to satisfy OFL naming restrictions.
