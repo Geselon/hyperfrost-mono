@@ -1,5 +1,5 @@
 Copyright (c) 2026, @Geselon (https://github.com/Geselon/slim-clarity-mono.git),
-with Reserved Font Name "Slim Clarity Mono".
+with Reserved Font Name "Slim Clarity".
 Copyright (c) 2020-2024, Braille Institute of America, Inc. (www.brailleinstitute.org),
 with Reserved Font Name "Atkinson Hyperlegible".
 
