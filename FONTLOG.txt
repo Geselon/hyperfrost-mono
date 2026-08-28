@@ -6,14 +6,14 @@ This file provides detailed information on the Slim Clarity Mono font software f
 Log of Changes
 --------------
 
-*** Slim Clarity Mono (Main) ***
+*** Slim Clarity Mono (Main Variant) ***
 2026-08-28 (Geselon) Version 1.000
 - Forked from Atkinson Hyperlegible Next Mono.
 - Increased character width density to match JetBrains Mono proportions.
 - Realigned and enlarged the vertical axis of the asterisk (*) symbol.
 - Renamed OpenType name tables to satisfy OFL naming restrictions.
 
-*** Slim Clarity Mono Original Asterisk (Variant) ***
+*** Slim Clarity Mono Original Asterisk (Alternative Variant) ***
 2026-08-28 (Geselon) Version 1.000
 - Forked from Atkinson Hyperlegible Next Mono.
 - Increased character width density to match JetBrains Mono proportions.
