@@ -1,6 +1,6 @@
 # Hyperfrost Mono
 
-It is a fork of the Atkinson Hyperlegible Mono font family that I have thoroughly modified which also includes **several crucial adjustments**, so that it suits me personally and coding overall, and I wanted to share it with y'all!
+It is a fork of the Atkinson Hyperlegible Mono font family that I have thoroughly modified which also includes **several crucial adjustments**, so that it suits my personal needs and coding overall, and I wanted to share it with y'all!
 
 You can move down to see all the **modifications** or [jump to the Modifications Section](#modifications)
 
