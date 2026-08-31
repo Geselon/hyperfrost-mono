@@ -13,8 +13,8 @@ You can move down to see all the **modifications** or [jump to the Modifications
 - **Increased Code Density:** Squashed character width to fit more code horizontally on screen to match the proportions of JetBrains Mono, Fira Code and most of other coding fonts.
 - **Centered and Enlarged Asterisk (`*`):** Adjusted the vertical alignment of the asterisk down to the middle and increased the size.
 - **Distinctive Curly Braces (`{}`):** Changed to more exaggerated, elegant curly braces for better distinction against square brackets (`[]`) and parentheses (`()`)
-- **Embolden Punctuations:** Thickened `"`, `'`, ```, `.`, `:`, and `;` for better visibility.
-- **Larger Characters:** All characters are enlarged for easier readability and legibility when using smaller font sizes.
+- **Embolden Punctuations:** Thickened `"`, `'`, `` ` ``, `.`, `:`, and `;` for better visibility.
+- **Larger Characters:** All characters are enlarged for easier readability and legibility when using smaller font sizes in general.
 - **Cleaned Metadata:** Renamed all internal font tables to comply with the SIL Open Font License (OFL) naming restrictions.
 
 ## Disclaimer & Credits
