@@ -1,5 +1,5 @@
-Copyright (c) 2026, @Geselon (https://github.com/Geselon/moono-mono-fonts.git),
-with Reserved Font Name "Moono".
+Copyright (c) 2026, @Geselon (https://github.com/Geselon/hyperfrost-mono),
+with Reserved Font Name "Hyperfrost".
 Copyright (c) 2020-2024, Braille Institute of America, Inc. (www.brailleinstitute.org),
 with Reserved Font Name "Atkinson Hyperlegible".
 
