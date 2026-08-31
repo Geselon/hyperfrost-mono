@@ -10,6 +10,7 @@ You can move down to see all the **modifications** or [jump to the Modifications
 
 ## Preview
 ![Hyperfrost Mono coding font preview with One Dark Pro syntax highlighting](preview.png)
+The code block is rendered using Figma. It looks better inside the actual code editor.
 
 ## Modifications
 - **Increased Code Density:** Squashed character width to fit more code horizontally on screen to match the proportions of JetBrains Mono, Fira Code and most of other coding fonts.
