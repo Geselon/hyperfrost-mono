@@ -2,6 +2,8 @@
 
 It is a fork of the Atkinson Hyperlegible Mono font family that I have thoroughly modified which also includes **several crucial adjustments**, so that it suits my personal needs and coding overall, and I wanted to share it with y'all!
 
+Get the font in the [Releases Section](https://github.com/Geselon/hyperfrost-mono/releases/tag/v1.0.0)
+
 You can move down to see all the **modifications** or [jump to the Modifications Section](#modifications)
 
 **Hyperfrost Mono** is a customized, high-density variant of the Atkinson Hyperlegible Mono font family, tailored specifically for developers who prefer compact coding fonts of those such as JetBrains Mono while preserving the readability of Atkinson Hyperlegible Mono.
